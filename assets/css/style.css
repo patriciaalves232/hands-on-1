@@ -5,15 +5,17 @@
 /*componets */
 @import "./header.css";
 @import "./buttons.css";
+@import "./main.css";
 
 /* Reset Css*/
 
-*{
+* {
   margin:0;
   padding: 0;
   border:0;
   font-size: 100%;
   font-family: "Source Sans Pro", sans-serif;
+  font-weight:300;
   vertical-align:baseline;
   text-decoration: none;
 
