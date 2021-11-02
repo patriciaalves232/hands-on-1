@@ -7,29 +7,17 @@
   .container {
 width: 850px;
 }
-
 .sobre-web-design figcaption img {
   width:600px;
   }
 }
 @media(max-width:915px){
   body{
-  
-    background-position:left -100px;   
+    background-position:left top;   
     background-color:#b1f4ff;
   }
   .container{
 width: 600px;
-}
-@media(max-width:665px){
-  .container{
-    width: 400px;
-  }
-}
-@media(max-width:450px){
-  .container{
-    width: 290px;
-  }
 }
 
 .row{
@@ -42,13 +30,5 @@ header nav{
 .sobre-web-design article{
   width:100%;
 }
-  .sobre-web-design figcaption img {
-    width: 100%;
-    margin:30px 0 0 0;
-  
-}
-footer .row {
-  flex-direction: row;
-  justify-content: center;
-}
+
 }
